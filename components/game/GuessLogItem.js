@@ -11,6 +11,8 @@ const GuessLogItem = ({ roundNumber, guess }) => {
   );
 };
 
+
+
 export default GuessLogItem;
 
 const styles = StyleSheet.create({
